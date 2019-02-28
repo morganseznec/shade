@@ -52,3 +52,9 @@ ChangeLog
 # Editors
 *~
 .*.swp
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/shade.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
